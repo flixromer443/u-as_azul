@@ -1,0 +1,10 @@
+
+.boton:hover{
+    width:200px;
+    transition: 0.9s;
+}
+.fuente:hover{
+    font-size: 30px;
+    transition: 0.5s;
+    
+}
